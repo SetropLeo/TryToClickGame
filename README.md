@@ -7,10 +7,10 @@
 <code>-git clone https://github.com/SetropLeo/TryToClickGame
 </code>
 </pre>
-<br>
 
 <h2>Demonstrative</h2>
 <p> - </p>
+<br>
 
 <h2>Built With</h2>
 <ul>
